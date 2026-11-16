@@ -2,7 +2,7 @@
 
 - **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
-- **Phase 2 / Week 5 Milestone Project:** Feature Encoding & Train-Test Splitting
+- **Phase 2 / Week 5 Milestone Project:** Feature Encoding & Train-Test Splitting 
 
 ## Project Summary
 An automated preprocessing pipeline built with **Pandas and scikit-learn** that transforms the mixed text and numeric **Telco Customer Churn** dataset (7,043 customers, 21 columns) into clean, encoded, scaled and model-ready train and test sets.
