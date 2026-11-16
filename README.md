@@ -1,6 +1,6 @@
 # Automated ML Data Preprocessor
 
-- **Author:** Teki Mohit Sai Tulasi
+- **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
 - **Phase 2 / Week 5 Milestone Project:** Feature Encoding & Train-Test Splitting
 
